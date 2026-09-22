@@ -1,0 +1,7 @@
+.idea/
+__pycache__/
+*.pyc
+test_AI.py
+.env
+.venv/
+venv/
